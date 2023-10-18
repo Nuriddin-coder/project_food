@@ -59,6 +59,7 @@ body {
 .header_btn {
   padding: 13px 30px;
   border: none;
+  cursor: pointer;
 
   border-radius: 5px;
   background: #dc780b;
